@@ -8,6 +8,7 @@ Reposisitoty of Coronavirus disease (COVID-19)
 * https://www.worldometers.info/coronavirus/
 * https://kawalcovid19.id/ (Indonesia)
 * https://coronavirustechhandbook.com/
+* https://github.com/datasets/covid-19 ( Combined )
 
 ## Important links
 
