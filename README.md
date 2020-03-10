@@ -9,6 +9,7 @@ Reposisitoty of Coronavirus disease (COVID-19)
 * https://kawalcovid19.id/ (Indonesia)
 * https://coronavirustechhandbook.com/
 * https://github.com/datasets/covid-19 ( Combined )
+* https://github.com/ondata/covid19italia ( Italy )
 
 ## Important links
 
