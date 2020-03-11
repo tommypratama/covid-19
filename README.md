@@ -22,3 +22,5 @@ Reposisitoty of Coronavirus disease (COVID-19)
 ## Inspiration
 
 * https://www.tableau.com/covid-19-coronavirus-data-resources
+* https://coronavirus.jhu.edu/map.html ( Map )
+* https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8 ( Analytics Guide )
