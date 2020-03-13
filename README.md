@@ -12,7 +12,7 @@ Reposisitoty of Coronavirus disease (COVID-19)
 * https://github.com/ondata/covid19italia ( Italy )
 * https://github.com/pcm-dpc ( Italy Official )
 * https://github.com/simonw/datasette-column-inspect ( [Stream](https://covid-19.datasettes.com/covid/daily_reports.csv?_stream=on&_size=max) )
-* https://covid19.mathdro.id/api/ ( Stream )
+* https://github.com/mathdroid/covid-19-api ( Stream )
 
 ## Important links
 
